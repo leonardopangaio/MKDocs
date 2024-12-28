@@ -1,639 +1,639 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://mydomain.org/mysite/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/nova_pagina/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/nova_pagina/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/acid/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/acid/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/airflow/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/airflow/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ansible/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ansible/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/argocd/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/argocd/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/arp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/arp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/base/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/base/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/bgp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/bgp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/build/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/build/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/caas/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/caas/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/cad/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/cad/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/cd-continuous-delivery/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/cd-continuous-delivery/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/cd-continuous-deployment/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/cd-continuous-deployment/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ci-cd/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ci-cd/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ci/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ci/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/cifs/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/cifs/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/container/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/container/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/css/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/css/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/csv/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/csv/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dast/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dast/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/data_migration/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/data_migration/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/database_migration/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/database_migration/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dba/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dba/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dbaops/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dbaops/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dcl/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dcl/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ddl/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ddl/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/deploy/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/deploy/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/devops/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/devops/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/devsecops/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/devsecops/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dhcp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dhcp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dll/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dll/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dlq/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dlq/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dml/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dml/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dmz/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dmz/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dns/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dns/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/docker-registry/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/docker-registry/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/docker/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/docker/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dql/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dql/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/dtl/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/dtl/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/erp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/erp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/esb/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/esb/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ethernet/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ethernet/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/etl/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/etl/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/fhir/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/fhir/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/file-docker-compose/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/file-docker-compose/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/file-dockerfile/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/file-dockerfile/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/file-dockerignore/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/file-dockerignore/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/file-env/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/file-env/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/file-gitignore/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/file-gitignore/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/file-makefile/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/file-makefile/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ftp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ftp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/gcp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/gcp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ged/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ged/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/gis/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/gis/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/git/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/git/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/github/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/github/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/gitlab/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/gitlab/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/gitops/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/gitops/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/glbp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/glbp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/hci/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/hci/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/his/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/his/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/hl7/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/hl7/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/html/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/html/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/http/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/http/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/https/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/https/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/iaas/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/iaas/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/iac/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/iac/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/icmp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/icmp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ide/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ide/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/iis/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/iis/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/imap/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/imap/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/interoperabilidade/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/interoperabilidade/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/iot/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/iot/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ip/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ip/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/jdbc/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/jdbc/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/jenkins/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/jenkins/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/json/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/json/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/jumbo_frame/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/jumbo_frame/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/jwt/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/jwt/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/kafka/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/kafka/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/kpi/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/kpi/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/kubernetes/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/kubernetes/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/kvm/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/kvm/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/lan/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/lan/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ldap/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ldap/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/lgpd/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/lgpd/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/lis/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/lis/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/lvm/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/lvm/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mdm/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mdm/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mea/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mea/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mfa/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mfa/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mirth/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mirth/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/modelo_osi/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/modelo_osi/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mpls/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mpls/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mqtt/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mqtt/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mssql_cdc/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mssql_cdc/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mtr/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mtr/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mtu/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mtu/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/mvp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/mvp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/nda/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/nda/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/nexus/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/nexus/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/nfs/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/nfs/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/nmap/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/nmap/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/nosql/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/nosql/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/okr/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/okr/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/openshift/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/openshift/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/orm/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/orm/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/paas/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/paas/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/pep/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/pep/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/pipeline/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/pipeline/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/pop/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/pop/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/proxmox/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/proxmox/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/rabbitmq/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/rabbitmq/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/rdp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/rdp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/repositorio/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/repositorio/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/rfp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/rfp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ris/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ris/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/rsa/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/rsa/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/rundec/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/rundec/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/saas/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/saas/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/samba/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/samba/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/sast/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/sast/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/scp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/scp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/sdk/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/sdk/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/secops/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/secops/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/sftp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/sftp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/sgdb/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/sgdb/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/smb/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/smb/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/smtp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/smtp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/snmp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/snmp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/sql/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/sql/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/sre/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/sre/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ssh/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ssh/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ssl/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ssl/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/stomp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/stomp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/switch_tor/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/switch_tor/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/tcp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/tcp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/terraform/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/terraform/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/tls/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/tls/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/toml/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/toml/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/ttl/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/ttl/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/udp/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/udp/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/uml/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/uml/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/uri/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/uri/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/url/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/url/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/vba/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/vba/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/vbscript/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/vbscript/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/vlan/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/vlan/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/vna/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/vna/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/vnc/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/vnc/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/vpn/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/vpn/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/wan/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/wan/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/xml/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/xml/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/glossary/yaml/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/glossary/yaml/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/new_group_of_pages/md1%20copy%202/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/new_group_of_pages/md1%20copy%202/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/new_group_of_pages/md1%20copy%203/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/new_group_of_pages/md1%20copy%203/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/new_group_of_pages/md1%20copy/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/new_group_of_pages/md1%20copy/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
     <url>
-         <loc>https://mydomain.org/mysite/new_group_of_pages/md1/</loc>
+         <loc>https://leonardopangaio.github.io/MKDocs/new_group_of_pages/md1/</loc>
          <lastmod>2024-12-28</lastmod>
     </url>
 </urlset>
