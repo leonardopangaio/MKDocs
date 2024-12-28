@@ -1,3 +1,10 @@
+---
+title: Teste de título
+subtitle: Teste de subtítulo
+description: Teste de descrição
+icon: material/emoticon-happy 
+---
+
 # New Page
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
