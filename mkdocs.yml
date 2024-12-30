@@ -4,6 +4,7 @@ site_url: https://leonardopangaio.github.io/MKDocs/
 
 theme:
   name: material
+  custom_dir: overrides
   language: pt
   features:
     - navigation.instant
