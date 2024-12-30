@@ -11,6 +11,7 @@ tags:
 authors:
   - leonardo
 slug: forbidden-post
+comment: true
 ---
 
 
