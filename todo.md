@@ -1,4 +1,4 @@
-- [ ] Corrigir o navigation.path;
+- [X] Corrigir o navigation.path;
 - [X] Corrigir o RSS;
 - [ ] Configurar o Google Analytics;
 - [X] Corrigir git-committers;
