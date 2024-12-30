@@ -1,5 +1,5 @@
 - [ ] Corrigir o navigation.path;
-- [ ] Corrigir o RSS;
+- [X] Corrigir o RSS;
 - [ ] Configurar o Google Analytics;
-- [ ] Corrigir git-committers;
-- [ ] Corrigir git-revision-date-localized;
+- [X] Corrigir git-committers;
+- [X] Corrigir git-revision-date-localized;
