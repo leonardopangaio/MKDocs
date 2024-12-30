@@ -3,5 +3,5 @@
 - [ ] Configurar o Google Analytics;
 - [X] Corrigir git-committers;
 - [X] Corrigir git-revision-date-localized;
-- [ ] Configurar comentários;
+- [X] Configurar comentários;
     - https://github.com/apps/giscus
