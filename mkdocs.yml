@@ -85,6 +85,9 @@ plugins:
       enabled: true
       repository: leonardopangaio/MKDocs
       branch: main
+      docs_path: docs/blog
+      exclude:
+        - docs/glossary/*
       token: !ENV GH_TOKEN
   
   # The language must be only pt, not pt-BR
