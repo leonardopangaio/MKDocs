@@ -85,7 +85,7 @@ plugins:
       enabled: true
       repository: leonardopangaio/MKDocs
       branch: main
-      docs_path: docs/blog
+      docs_path: docs/blog/
       exclude:
         - docs/glossary/*
       token: !ENV GH_TOKEN
