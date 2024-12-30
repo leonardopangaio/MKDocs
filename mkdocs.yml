@@ -16,7 +16,7 @@ theme:
     - navigation.indexes
     - navigation.tracking
     - navigation.top
-    # - navigation.indexes
+    - navigation.indexes
     - search.suggest
     - search.highlight
     - search.share

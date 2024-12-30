@@ -5,7 +5,7 @@ date:
 readtime: 5
 tags:
   - Technology
-comment: true
+comments: true
 ---
 
 # THIRD BLOG POST

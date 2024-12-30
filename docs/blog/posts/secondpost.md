@@ -5,7 +5,7 @@ draft: true
 tags:
   - Life
   - Food
-comment: true
+comments: true
 ---
 
 # SECOND BLOG POST

@@ -1,21 +1,10 @@
 ---
 date:
   created: 2024-12-30
-categories:
-  - Tech
-  - Life
-tags:
-  - Life
-  - Technology
-  - Food
-authors:
-  - leonardo
-slug: forbidden-post
 comments: true
 ---
 
-
-# FIRST BLOG POST
+# NEW BLOG POST
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.
 
