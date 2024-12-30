@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-  - giscus
+comments: false
 ---
 
 # Welcome to MkDocs
