@@ -5,7 +5,7 @@
 - [X] Corrigir git-revision-date-localized;
 - [X] Configurar comentários;
     - https://github.com/apps/giscus
-- [ ] Corrigir ordenação dos posts;
+- [X] Corrigir ordenação dos posts;
 
 
 Configuração do blog:
