@@ -1,6 +1,5 @@
 # Infrastructure as a Service (IaaS)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
 
 ## Descrição
 

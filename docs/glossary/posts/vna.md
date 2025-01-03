@@ -1,6 +1,5 @@
 # Vendor Neutral Archive (VNA)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
 
 ## Descrição
 

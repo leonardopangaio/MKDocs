@@ -1,6 +1,5 @@
 # Tom's Obvious, Minimal Language (TOML)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
 
 ## Descrição
 

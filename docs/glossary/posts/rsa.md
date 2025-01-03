@@ -1,6 +1,5 @@
 # Rivest-Shamir-Adleman (RSA)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-15
 
 ## Descrição
 

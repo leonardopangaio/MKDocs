@@ -1,6 +1,5 @@
 # Hypertext Transfer Protocol (HTTP)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-06
 
 ## Descrição
 

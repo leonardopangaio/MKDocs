@@ -1,6 +1,5 @@
 # Mergers and Acquisitions (M&A)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-09
 
 ## Descrição
 

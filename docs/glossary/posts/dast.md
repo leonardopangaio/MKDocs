@@ -1,6 +1,5 @@
 # Dynamic Application Security Testing (DAST)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-09 
 
 ## Descrição
 

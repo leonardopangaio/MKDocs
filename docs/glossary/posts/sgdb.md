@@ -1,6 +1,5 @@
 # Sistema de Gerenciamento de Banco de Dados (SGDB)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-08
 
 ## Descrição
 

@@ -1,6 +1,5 @@
 # Git Operations (GitOps)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-20
 
 ## Descrição
 

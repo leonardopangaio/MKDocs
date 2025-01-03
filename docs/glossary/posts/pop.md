@@ -1,6 +1,5 @@
 # Post Office Protocol (POP)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-11
 
 ## Descrição
 

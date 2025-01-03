@@ -1,6 +1,5 @@
 # Data Definition Language (DDL)
 
-Autor: [Leonardo Pangaio][1] - Data: 2024-11-10
 
 ## Descrição
 
