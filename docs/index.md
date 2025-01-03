@@ -1,9 +1,13 @@
 ---
 hide:
-  - navigation
-  - toc
+  # - navigation
+  # - toc
   - feedback
 comments: false
+summary: Teste de sumário
+authors:
+  - Leonardo Pangaio
+date: 2025-01-01
 ---
 
 # Welcome to MkDocs

@@ -1,6 +1,7 @@
 site_name: My First Awesome DaC Site
 site_description: A site build with Material for MKDocs
 site_url: https://leonardopangaio.github.io/MKDocs/
+site_author: leonardo
 
 theme:
   name: material
@@ -20,6 +21,8 @@ theme:
     - search.suggest
     - search.highlight
     - search.share
+    - navigation.footer
+    - content.tooltips
   palette: 
     # Palette toggle for light mode
     - scheme: default
@@ -79,6 +82,11 @@ plugins:
         - Tech
         - Life
       post_url_format: "{slug}"
+      blog_toc: true
+      archive_toc: true
+      categories_toc: true
+      pagination: false
+      pagination_per_page: 5
   
   - tags:
       tags_file: tags.md
@@ -97,14 +105,14 @@ plugins:
         - categories
         - tags
   
-  - git-committers:
-      enabled: true
-      repository: leonardopangaio/MKDocs
-      branch: main
-      docs_path: docs/blog/
-      exclude:
-        - docs/glossary/*
-      token: !ENV GH_TOKEN
+  # - git-committers:
+  #     enabled: true
+  #     repository: leonardopangaio/MKDocs
+  #     branch: main
+  #     docs_path: docs/blog/
+  #     exclude:
+  #       - docs/glossary/*
+  #     token: !ENV GH_TOKEN
   
   # The language must be only pt, not pt-BR
   - git-revision-date-localized:
