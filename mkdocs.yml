@@ -33,6 +33,7 @@ theme:
     - content.tooltips
     - toc.follow
     - content.action.view
+    - content.action.edit
   palette: 
     # Palette toggle for light mode
     - scheme: default
