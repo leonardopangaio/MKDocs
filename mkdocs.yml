@@ -3,10 +3,18 @@ site_description: A site build with Material for MKDocs
 site_url: https://leonardopangaio.github.io/MKDocs/
 site_author: leonardo
 
+repo_url: https://github.com/leonardopangaio/MKDocs
+repo_name: leonardopangaio/MKDocs
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   custom_dir: overrides
   language: pt
+  favicon: images/favicon.ico
+  logo: images/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
   features:
     - navigation.instant
     - navigation.instant.progress
@@ -23,19 +31,24 @@ theme:
     - search.share
     - navigation.footer
     - content.tooltips
+    - toc.follow
+    - content.action.view
   palette: 
     # Palette toggle for light mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-      primary: deep orange
+      primary: cyan
+      # accent: light green
+
     # Palette toggle for dark mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-      primary: yellow
+      primary: indigo
+      # accent: green
 
 extra: 
   social:
@@ -96,7 +109,7 @@ plugins:
   # http://127.0.0.1:8000/MKDocs/feed_rss_updated.xml
   - rss:
       match_path: blog/posts/.* 
-      enable: true
+      # enable: true
       pretty_print: true
       date_from_meta:
         as_creation: date.created
