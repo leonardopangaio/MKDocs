@@ -24,7 +24,7 @@ create: ## Create a new website
 
 start: ## Start the dev env
 	@source venv/bin/activate \
-		&& mkdocs serve
+		&& mkdocs serve --verbose
 
 build: ## Build the project
 	@source venv/bin/activate \
