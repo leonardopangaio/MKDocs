@@ -47,7 +47,7 @@ jobs:
 
           MESSAGE="🚀 [$DATETIME] - $AUTHOR realizou um novo deploy!  
           📝 *Commit:* \"$COMMIT_MSG\"  
-          🔗 [Ver commit no GitHub]($COMMIT_URL)"
+          🔗 [Ver commit no GitHub]($COMMIT_URL)
           🌎 [Veja como ficou em produção]($SITE_URL)"
 
           curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
