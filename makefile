@@ -1,6 +1,7 @@
 VERSION="1.0"
 pname="Teste-MKDocs"
 SHELL := /bin/bash
+message="Making a new test."
 .PHONY: help requirements.txt
 
 help: ## Shows this help
@@ -32,6 +33,6 @@ build: ## Build the project
 git: build ## Push to Github
 	@git fetch origin \
 		&& git add . \
-		&& git commit -m "Making a new test." \
+		&& git commit -m $(message) \
 		&& git pull --no-rebase origin \
 		&& git push origin
