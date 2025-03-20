@@ -1,29 +1,28 @@
 ---
+title: home
 hide:
-  # - navigation
-  # - toc
+  - navigation
+  - toc
   - feedback
+  - footer
 comments: false
-summary: Teste de sumário
-authors:
-  - Leonardo Pangaio
-date: 2025-01-01
 ---
+# bem vindo
 
-# Welcome to MkDocs
+![](./images/dark_lion.jpeg#only-dark){ align=right width="400" }
+![](./images/light_lion.jpeg#only-light){ align=right width="400" }
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
+Este site nasceu como uma forma de unir aprendizado, prática e compartilhamento. Criei este espaço para registrar minhas anotações e reflexões, com o objetivo de organizar meu conhecimento enquanto exploro novas ideias. Além disso, espero que o conteúdo aqui possa inspirar, ensinar ou trazer insights úteis para outras pessoas que compartilhem dos mesmos interesses.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
+<!-- <div class="grid" markdown style="text-align:center;">
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<div>
+<h1>SEJA MUITO BEM VINDO!</h1>
+<p>Este site nasceu como uma forma de unir aprendizado, prática e compartilhamento. Criei este espaço para registrar minhas anotações e reflexões, com o objetivo de organizar meu conhecimento enquanto exploro novas ideias. Além disso, espero que o conteúdo aqui possa inspirar, ensinar ou trazer insights úteis para outras pessoas que compartilhem dos mesmos interesses.</p>
+</div>
+
+<div></div>
+
+</div> -->
