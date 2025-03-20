@@ -33,6 +33,6 @@ build: ## Build the project
 git: build ## Push to Github
 	@git fetch origin \
 		&& git add . \
-		&& git commit -m $(message) \
+		&& git commit -m '$(message)' \
 		&& git pull --no-rebase origin \
 		&& git push origin
