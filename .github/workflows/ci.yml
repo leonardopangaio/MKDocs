@@ -35,9 +35,16 @@ jobs:
         run: |
           COMMIT_MSG=$(git log -1 --pretty=format:"%s")
           AUTHOR=$(git log -1 --pretty=format:"%an")
+          COMMIT_HASH=$(git rev-parse HEAD)
           DATETIME=$(date +"%Y-%m-%d %H:%M:%S")
-          MESSAGE="🚀 [$DATETIME] - $AUTHOR acabou de realizar um novo deploy: \"$COMMIT_MSG\""
-          
+
+          REPO_URL="https://github.com/${{ github.repository }}"
+          COMMIT_URL="$REPO_URL/commit/$COMMIT_HASH"
+
+          MESSAGE="🚀 [$DATETIME] - $AUTHOR realizou um novo deploy!  
+          \n📝 *Commit:* \"$COMMIT_MSG\"  
+          \n🔗 [Ver commit no GitHub]($COMMIT_URL)"
+
           curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
             -d text="$MESSAGE" \
