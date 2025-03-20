@@ -33,6 +33,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
+          export TZ=America/Sao_Paulo
           COMMIT_MSG=$(git log -1 --pretty=format:"%s")
           AUTHOR=$(git log -1 --pretty=format:"%an")
           COMMIT_HASH=$(git rev-parse HEAD)
