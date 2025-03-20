@@ -41,9 +41,14 @@ jobs:
           REPO_URL="https://github.com/${{ github.repository }}"
           COMMIT_URL="$REPO_URL/commit/$COMMIT_HASH"
 
+          USER_NAME=$(echo "${{ github.repository }}" | cut -d'/' -f1)
+          REPO_NAME=$(echo "${{ github.repository }}" | cut -d'/' -f2)
+          SITE_URL="https://$USER_NAME.github.io/$REPO_NAME"
+
           MESSAGE="🚀 [$DATETIME] - $AUTHOR realizou um novo deploy!  
           📝 *Commit:* \"$COMMIT_MSG\"  
           🔗 [Ver commit no GitHub]($COMMIT_URL)"
+          🌎 [Veja como ficou em produção]($SITE_URL)"
 
           curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
             -d chat_id="$TELEGRAM_CHAT_ID" \
