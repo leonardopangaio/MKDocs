@@ -43,6 +43,7 @@ print(f'{datetime.now()} - INFO - Olá mundo.')
 --8<-- "https://raw.githubusercontent.com/leonardopangaio/MKDocs/refs/heads/main/.github/workflows/ci.yml"
 ```
 
+<script src="https://gist.github.com/diegobassay/6fc0cd77d051738d0edb6ae2a8e5d933.js"></script>
 
 
 ## Project layout
