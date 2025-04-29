@@ -1,0 +1,68 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "My First Awesome DaC Site",
+    "home_page_url": "https://leonardopangaio.github.io/MKDocs/",
+    "feed_url": "https://leonardopangaio.github.io/MKDocs/feed_json_updated.json",
+    "description": "A site build with Material for MKDocs",
+    "icon": null,
+    "authors": [
+        {
+            "name": "leonardo"
+        }
+    ],
+    "language": "pt",
+    "items": [
+        {
+            "id": "https://leonardopangaio.github.io/MKDocs/blog/forbidden-post/",
+            "url": "https://leonardopangaio.github.io/MKDocs/blog/forbidden-post/",
+            "title": "FIRST BLOG POST",
+            "content_html": "<h1>FIRST BLOG POST</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.</p>",
+            "image": null,
+            "date_modified": "2025-04-29T08:35:47+00:00",
+            "authors": [
+                {
+                    "name": "Leonardo Pangaio"
+                }
+            ],
+            "tags": [
+                "Food",
+                "Life",
+                "Life",
+                "Tech",
+                "Technology"
+            ]
+        },
+        {
+            "id": "https://leonardopangaio.github.io/MKDocs/blog/new-blog-post/",
+            "url": "https://leonardopangaio.github.io/MKDocs/blog/new-blog-post/",
+            "title": "NEW BLOG POST",
+            "content_html": "<h1>NEW BLOG POST</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.</p>",
+            "image": null,
+            "date_modified": "2025-04-29T08:35:47+00:00",
+            "authors": [],
+            "tags": []
+        },
+        {
+            "id": "https://leonardopangaio.github.io/MKDocs/blog/third-blog-post/",
+            "url": "https://leonardopangaio.github.io/MKDocs/blog/third-blog-post/",
+            "title": "THIRD BLOG POST",
+            "content_html": "<h1>THIRD BLOG POST</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.</p>",
+            "image": null,
+            "date_modified": "2024-12-31T00:00:00+00:00",
+            "authors": [],
+            "tags": [
+                "Technology"
+            ]
+        },
+        {
+            "id": "https://leonardopangaio.github.io/MKDocs/blog/lifeupdates/",
+            "url": "https://leonardopangaio.github.io/MKDocs/blog/lifeupdates/",
+            "title": "Lifeupdates",
+            "content_html": "<h1>Lifeupdates</h1>\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.</p>",
+            "image": null,
+            "date_modified": "2024-12-31T00:00:00+00:00",
+            "authors": [],
+            "tags": []
+        }
+    ]
+}

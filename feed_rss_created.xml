@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    
+    <title>My First Awesome DaC Site</title>
+    <description>A site build with Material for MKDocs</description>
+    <link>https://leonardopangaio.github.io/MKDocs/</link>
+    <atom:link href="https://leonardopangaio.github.io/MKDocs/feed_rss_created.xml" rel="self" type="application/rss+xml" />
+
+    
+    <managingEditor>leonardo</managingEditor>
+    <docs>https://github.com/leonardopangaio/MKDocs</docs>
+    <language>pt</language>
+
+    
+    <pubDate>Tue, 29 Apr 2025 08:36:15 -0000</pubDate>
+    <lastBuildDate>Tue, 29 Apr 2025 08:36:15 -0000</lastBuildDate>
+    <ttl>1440</ttl>
+
+    
+    <generator>MkDocs RSS plugin - v1.17.1</generator>
+
+    
+    
+    <image>
+      <url>None</url>
+      <title>My First Awesome DaC Site</title>
+      <link>https://leonardopangaio.github.io/MKDocs/</link>
+    </image>
+    
+
+    
+    
+    <item>
+      <title>NEW BLOG POST</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;NEW BLOG POST&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.&lt;/p&gt;</description>
+      <link>https://leonardopangaio.github.io/MKDocs/blog/new-blog-post/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      <source url="https://leonardopangaio.github.io/MKDocs/feed_rss_created.xml">My First Awesome DaC Site</source>
+      
+      <guid isPermaLink="true">https://leonardopangaio.github.io/MKDocs/blog/new-blog-post/</guid>
+      
+    </item>
+    
+    <item>
+      <title>FIRST BLOG POST</title>
+      
+      
+        
+      <author>Leonardo Pangaio</author>
+        
+      
+      
+      
+        
+      <category>Food</category>
+        
+      <category>Life</category>
+        
+      <category>Life</category>
+        
+      <category>Tech</category>
+        
+      <category>Technology</category>
+        
+      
+      <description>&lt;h1&gt;FIRST BLOG POST&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.&lt;/p&gt;</description>
+      <link>https://leonardopangaio.github.io/MKDocs/blog/forbidden-post/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <source url="https://leonardopangaio.github.io/MKDocs/feed_rss_created.xml">My First Awesome DaC Site</source>
+      
+      <guid isPermaLink="true">https://leonardopangaio.github.io/MKDocs/blog/forbidden-post/</guid>
+      
+    </item>
+    
+    <item>
+      <title>THIRD BLOG POST</title>
+      
+      
+      
+      
+        
+      <category>Technology</category>
+        
+      
+      <description>&lt;h1&gt;THIRD BLOG POST&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.&lt;/p&gt;</description>
+      <link>https://leonardopangaio.github.io/MKDocs/blog/third-blog-post/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <source url="https://leonardopangaio.github.io/MKDocs/feed_rss_created.xml">My First Awesome DaC Site</source>
+      
+      <guid isPermaLink="true">https://leonardopangaio.github.io/MKDocs/blog/third-blog-post/</guid>
+      
+    </item>
+    
+    <item>
+      <title>Lifeupdates</title>
+      
+      
+      
+      
+        
+      
+      <description>&lt;h1&gt;Lifeupdates&lt;/h1&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam felis lacus, eleifend mattis ligula ut, pulvinar rutrum est. Praesent condimentum, augue placerat imperdiet vestibulum, mi lectus placerat lacus, quis dignissim libero nisl at elit. Proin maximus molestie felis feugiat eleifend. Ut pellentesque fermentum felis, ut cursus nibh tincidunt in. Ut dictum ipsum id enim tincidunt, sit amet posuere neque egestas. Quisque posuere, felis non finibus molestie, mauris neque laoreet felis, et egestas dolor ex ac tortor. Cras id nulla id nulla suscipit imperdiet sed condimentum leo. Praesent metus justo, mollis quis arcu congue, rutrum volutpat orci. Fusce sit amet eros vestibulum, finibus purus sed, pretium lorem. Quisque dictum rutrum metus vel suscipit. Donec lacinia risus eget ipsum malesuada hendrerit. Praesent condimentum lacinia eros at feugiat. Fusce in augue tristique, pharetra quam et, interdum turpis. Sed quis tortor sit amet erat imperdiet sollicitudin vel sit amet justo.&lt;/p&gt;</description>
+      <link>https://leonardopangaio.github.io/MKDocs/blog/lifeupdates/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      <source url="https://leonardopangaio.github.io/MKDocs/feed_rss_created.xml">My First Awesome DaC Site</source>
+      
+      <guid isPermaLink="true">https://leonardopangaio.github.io/MKDocs/blog/lifeupdates/</guid>
+      
+    </item>
+    
+  </channel>
+</rss>
